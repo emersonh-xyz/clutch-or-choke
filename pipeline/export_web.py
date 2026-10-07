@@ -4,7 +4,7 @@ import os
 
 from build import load
 
-KEEP = ("id", "map", "round", "player", "side", "vs", "won", "startTick", "freezeTick",
+KEEP = ("id", "map", "round", "player", "side", "vs", "won", "startTick", "freezeTick", "outcomeTick",
         "timeLeft", "bombPlanted", "clutcher", "opponents", "videoUrl")
 OUT = os.path.join(os.path.dirname(__file__), "..", "web", "src", "data", "clutches.json")
 

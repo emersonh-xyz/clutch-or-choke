@@ -13,6 +13,7 @@
   "startTick": 20791,
   "stopTick": 21815,
   "freezeTick": 21559,
+  "outcomeTick": 21687,
   "timeLeft": 26.7,
   "bombPlanted": false,
   "clutcher": {
@@ -115,6 +116,7 @@
   "startTick": 29751,
   "stopTick": 30775,
   "freezeTick": 30519,
+  "outcomeTick": 30647,
   "timeLeft": 2.0,
   "bombPlanted": false,
   "clutcher": {
@@ -198,6 +200,7 @@
   "startTick": 39125,
   "stopTick": 40431,
   "freezeTick": 39317,
+  "outcomeTick": 39471,
   "timeLeft": 38.1,
   "bombPlanted": true,
   "clutcher": {
@@ -271,6 +274,7 @@
   "startTick": 47521,
   "stopTick": 49454,
   "freezeTick": 48289,
+  "outcomeTick": 48417,
   "timeLeft": 21.5,
   "bombPlanted": true,
   "clutcher": {
@@ -339,6 +343,7 @@
   "startTick": 53829,
   "stopTick": 54955,
   "freezeTick": 54021,
+  "outcomeTick": 54827,
   "timeLeft": 66.6,
   "bombPlanted": false,
   "clutcher": {
@@ -430,6 +435,7 @@
   "startTick": 84905,
   "stopTick": 86341,
   "freezeTick": 85097,
+  "outcomeTick": 85372,
   "timeLeft": 39.8,
   "bombPlanted": true,
   "clutcher": {
@@ -516,6 +522,7 @@
   "startTick": 93245,
   "stopTick": 96393,
   "freezeTick": 93696,
+  "outcomeTick": 96265,
   "timeLeft": 81.6,
   "bombPlanted": false,
   "clutcher": {
@@ -608,6 +615,7 @@
   "startTick": 124618,
   "stopTick": 125790,
   "freezeTick": 124810,
+  "outcomeTick": 125148,
   "timeLeft": 36.6,
   "bombPlanted": true,
   "clutcher": {
@@ -696,6 +704,7 @@
   "startTick": 133705,
   "stopTick": 134729,
   "freezeTick": 134473,
+  "outcomeTick": 134601,
   "timeLeft": 28.4,
   "bombPlanted": true,
   "clutcher": {
@@ -765,6 +774,7 @@
   "startTick": 142665,
   "stopTick": 143689,
   "freezeTick": 143433,
+  "outcomeTick": 143561,
   "timeLeft": 2.0,
   "bombPlanted": false,
   "clutcher": {
@@ -869,6 +879,7 @@
   "startTick": 149338,
   "stopTick": 150362,
   "freezeTick": 150106,
+  "outcomeTick": 150234,
   "timeLeft": 37.7,
   "bombPlanted": false,
   "clutcher": {
@@ -956,6 +967,7 @@
   "startTick": 157554,
   "stopTick": 160505,
   "freezeTick": 158322,
+  "outcomeTick": 160377,
   "timeLeft": 13.6,
   "bombPlanted": false,
   "clutcher": {
@@ -1029,6 +1041,7 @@
   "startTick": 6504,
   "stopTick": 7528,
   "freezeTick": 7272,
+  "outcomeTick": 7400,
   "timeLeft": 19.9,
   "bombPlanted": true,
   "clutcher": {
@@ -1121,6 +1134,7 @@
   "startTick": 15193,
   "stopTick": 16217,
   "freezeTick": 15961,
+  "outcomeTick": 16089,
   "timeLeft": 1.0,
   "bombPlanted": true,
   "clutcher": {
@@ -1185,6 +1199,7 @@
   "startTick": 22221,
   "stopTick": 24847,
   "freezeTick": 22413,
+  "outcomeTick": 23983,
   "timeLeft": 41.2,
   "bombPlanted": false,
   "clutcher": {
@@ -1251,6 +1266,7 @@
   "startTick": 30300,
   "stopTick": 31143,
   "freezeTick": 30887,
+  "outcomeTick": 31015,
   "timeLeft": 43.6,
   "bombPlanted": false,
   "clutcher": {
@@ -1337,6 +1353,7 @@
   "startTick": 43886,
   "stopTick": 45836,
   "freezeTick": 44223,
+  "outcomeTick": 44932,
   "timeLeft": 30.8,
   "bombPlanted": true,
   "clutcher": {
@@ -1417,6 +1434,7 @@
   "startTick": 57463,
   "stopTick": 58402,
   "freezeTick": 57742,
+  "outcomeTick": 58274,
   "timeLeft": 35.9,
   "bombPlanted": true,
   "clutcher": {
@@ -1504,6 +1522,7 @@
   "startTick": 67399,
   "stopTick": 68423,
   "freezeTick": 68167,
+  "outcomeTick": 68295,
   "timeLeft": 1.0,
   "bombPlanted": true,
   "clutcher": {
@@ -1584,6 +1603,7 @@
   "startTick": 73800,
   "stopTick": 76200,
   "freezeTick": 75799,
+  "outcomeTick": 75946,
   "timeLeft": 22.8,
   "bombPlanted": false,
   "clutcher": {
@@ -1659,6 +1679,7 @@
   "startTick": 81474,
   "stopTick": 83743,
   "freezeTick": 82201,
+  "outcomeTick": 82630,
   "timeLeft": 42.3,
   "bombPlanted": false,
   "clutcher": {
@@ -1729,6 +1750,7 @@
   "startTick": 87828,
   "stopTick": 90813,
   "freezeTick": 88131,
+  "outcomeTick": 90685,
   "timeLeft": 69.4,
   "bombPlanted": false,
   "clutcher": {
@@ -1832,6 +1854,7 @@
   "startTick": 98128,
   "stopTick": 99152,
   "freezeTick": 98896,
+  "outcomeTick": 99024,
   "timeLeft": 17.1,
   "bombPlanted": true,
   "clutcher": {
@@ -1914,6 +1937,7 @@
   "startTick": 114167,
   "stopTick": 115191,
   "freezeTick": 114935,
+  "outcomeTick": 115063,
   "timeLeft": 18.7,
   "bombPlanted": true,
   "clutcher": {
@@ -1998,6 +2022,7 @@
   "startTick": 8377,
   "stopTick": 10407,
   "freezeTick": 9145,
+  "outcomeTick": 10279,
   "timeLeft": 73.3,
   "bombPlanted": false,
   "clutcher": {
@@ -2090,6 +2115,7 @@
   "startTick": 22366,
   "stopTick": 23333,
   "freezeTick": 23077,
+  "outcomeTick": 23205,
   "timeLeft": 35.0,
   "bombPlanted": false,
   "clutcher": {
@@ -2173,6 +2199,7 @@
   "startTick": 53055,
   "stopTick": 53922,
   "freezeTick": 53666,
+  "outcomeTick": 53794,
   "timeLeft": 61.8,
   "bombPlanted": false,
   "clutcher": {
@@ -2274,6 +2301,7 @@
   "startTick": 75336,
   "stopTick": 76792,
   "freezeTick": 75624,
+  "outcomeTick": 76664,
   "timeLeft": 19.2,
   "bombPlanted": false,
   "clutcher": {
@@ -2372,6 +2400,7 @@
   "startTick": 86132,
   "stopTick": 87406,
   "freezeTick": 86334,
+  "outcomeTick": 87278,
   "timeLeft": 52.4,
   "bombPlanted": false,
   "clutcher": {
@@ -2477,6 +2506,7 @@
   "startTick": 94457,
   "stopTick": 95562,
   "freezeTick": 95225,
+  "outcomeTick": 95434,
   "timeLeft": 34.9,
   "bombPlanted": true,
   "clutcher": {
@@ -2559,6 +2589,7 @@
   "startTick": 105935,
   "stopTick": 106959,
   "freezeTick": 106703,
+  "outcomeTick": 106831,
   "timeLeft": 1.0,
   "bombPlanted": true,
   "clutcher": {
@@ -2627,6 +2658,7 @@
   "startTick": 121843,
   "stopTick": 122867,
   "freezeTick": 122611,
+  "outcomeTick": 122739,
   "timeLeft": 27.8,
   "bombPlanted": true,
   "clutcher": {
@@ -2726,6 +2758,7 @@
   "startTick": 24337,
   "stopTick": 27158,
   "freezeTick": 24529,
+  "outcomeTick": 27030,
   "timeLeft": 39.1,
   "bombPlanted": false,
   "clutcher": {
@@ -2793,6 +2826,7 @@
   "startTick": 36121,
   "stopTick": 39053,
   "freezeTick": 36586,
+  "outcomeTick": 38171,
   "timeLeft": 37.2,
   "bombPlanted": false,
   "clutcher": {
@@ -2875,6 +2909,7 @@
   "startTick": 46443,
   "stopTick": 47832,
   "freezeTick": 46681,
+  "outcomeTick": 47704,
   "timeLeft": 20.8,
   "bombPlanted": false,
   "clutcher": {
@@ -2957,6 +2992,7 @@
   "startTick": 59972,
   "stopTick": 61821,
   "freezeTick": 60164,
+  "outcomeTick": 61693,
   "timeLeft": 53.2,
   "bombPlanted": false,
   "clutcher": {
@@ -3057,6 +3093,7 @@
   "startTick": 72243,
   "stopTick": 73221,
   "freezeTick": 72965,
+  "outcomeTick": 73093,
   "timeLeft": 18.5,
   "bombPlanted": true,
   "clutcher": {
@@ -3155,6 +3192,7 @@
   "startTick": 92945,
   "stopTick": 93918,
   "freezeTick": 93662,
+  "outcomeTick": 93790,
   "timeLeft": 83.4,
   "bombPlanted": false,
   "clutcher": {
@@ -3268,6 +3306,7 @@
   "startTick": 101536,
   "stopTick": 102551,
   "freezeTick": 101728,
+  "outcomeTick": 102423,
   "timeLeft": 16.6,
   "bombPlanted": true,
   "clutcher": {
@@ -3346,6 +3385,7 @@
   "startTick": 110608,
   "stopTick": 111632,
   "freezeTick": 111376,
+  "outcomeTick": 111504,
   "timeLeft": 7.6,
   "bombPlanted": true,
   "clutcher": {
@@ -3442,6 +3482,7 @@
   "startTick": 22246,
   "stopTick": 23270,
   "freezeTick": 23014,
+  "outcomeTick": 23142,
   "timeLeft": 45.8,
   "bombPlanted": false,
   "clutcher": {
@@ -3526,6 +3567,7 @@
   "startTick": 45731,
   "stopTick": 46755,
   "freezeTick": 46499,
+  "outcomeTick": 46627,
   "timeLeft": -197.3,
   "bombPlanted": true,
   "clutcher": {
@@ -3618,6 +3660,7 @@
   "startTick": 50708,
   "stopTick": 51729,
   "freezeTick": 51360,
+  "outcomeTick": 51601,
   "timeLeft": 29.6,
   "bombPlanted": true,
   "clutcher": {
@@ -3719,6 +3762,7 @@
   "startTick": 56809,
   "stopTick": 57688,
   "freezeTick": 57432,
+  "outcomeTick": 57560,
   "timeLeft": 50.9,
   "bombPlanted": false,
   "clutcher": {
@@ -3807,6 +3851,7 @@
   "startTick": 72147,
   "stopTick": 73328,
   "freezeTick": 72450,
+  "outcomeTick": 72578,
   "timeLeft": 39.4,
   "bombPlanted": true,
   "clutcher": {
@@ -3876,6 +3921,7 @@
   "startTick": 80251,
   "stopTick": 81275,
   "freezeTick": 81019,
+  "outcomeTick": 81147,
   "timeLeft": 19.8,
   "bombPlanted": false,
   "clutcher": {
@@ -3942,6 +3988,7 @@
   "startTick": 92142,
   "stopTick": 93240,
   "freezeTick": 92910,
+  "outcomeTick": 93112,
   "timeLeft": 26.8,
   "bombPlanted": true,
   "clutcher": {
@@ -4040,6 +4087,7 @@
   "startTick": 107440,
   "stopTick": 108464,
   "freezeTick": 108208,
+  "outcomeTick": 108336,
   "timeLeft": 64.0,
   "bombPlanted": false,
   "clutcher": {
@@ -4110,6 +4158,7 @@
   "startTick": 114157,
   "stopTick": 114884,
   "freezeTick": 114586,
+  "outcomeTick": 114756,
   "timeLeft": 44.3,
   "bombPlanted": false,
   "clutcher": {
@@ -4199,6 +4248,7 @@
   "startTick": 119370,
   "stopTick": 120345,
   "freezeTick": 120089,
+  "outcomeTick": 120217,
   "timeLeft": 58.7,
   "bombPlanted": false,
   "clutcher": {
@@ -4270,6 +4320,7 @@
   "startTick": 128855,
   "stopTick": 131439,
   "freezeTick": 129623,
+  "outcomeTick": 131311,
   "timeLeft": 28.9,
   "bombPlanted": true,
   "clutcher": {
@@ -4372,6 +4423,7 @@
   "startTick": 138884,
   "stopTick": 139788,
   "freezeTick": 139532,
+  "outcomeTick": 139660,
   "timeLeft": 86.9,
   "bombPlanted": false,
   "clutcher": {
@@ -4460,6 +4512,7 @@
   "startTick": 145658,
   "stopTick": 146682,
   "freezeTick": 146426,
+  "outcomeTick": 146554,
   "timeLeft": 36.3,
   "bombPlanted": false,
   "clutcher": {
@@ -4526,6 +4579,7 @@
   "startTick": 154760,
   "stopTick": 155558,
   "freezeTick": 155126,
+  "outcomeTick": 155430,
   "timeLeft": 30.4,
   "bombPlanted": true,
   "clutcher": {
@@ -4593,6 +4647,7 @@
   "startTick": 165934,
   "stopTick": 166886,
   "freezeTick": 166630,
+  "outcomeTick": 166758,
   "timeLeft": 67.7,
   "bombPlanted": false,
   "clutcher": {

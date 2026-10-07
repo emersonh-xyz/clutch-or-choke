@@ -25,6 +25,7 @@ export type Clutch = {
   startTick: number;
   stopTick: number;
   freezeTick: number;
+  outcomeTick: number;
   timeLeft: number;
   bombPlanted: boolean;
   clutcher: PlayerState;

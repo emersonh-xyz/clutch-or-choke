@@ -87,6 +87,9 @@ def find_clutches(path):
             )
             # round_end winner is "T"/"CT" (or 2/3 on some builds)
             clutch["won"] = str(end.winner) in (clutch["team"], "2" if clutch["team"] == "T" else "3")
+            # the clutch is decided when the clutcher dies, even if the round runs on (e.g. a defuse)
+            died = rd[(rd.tick > clutch["start_tick"]) & (rd.user_steamid.astype(str) == clutch["steamid"])].tick
+            clutch["outcome_tick"] = int(died.min()) if len(died) else clutch["end_tick"]
             out.append(clutch)
     return out
 

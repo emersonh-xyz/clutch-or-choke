@@ -9,6 +9,7 @@
   "won": false,
   "startTick": 29751,
   "freezeTick": 30519,
+  "outcomeTick": 30647,
   "timeLeft": 2.0,
   "bombPlanted": false,
   "clutcher": {
@@ -86,6 +87,7 @@
   "won": false,
   "startTick": 39125,
   "freezeTick": 39317,
+  "outcomeTick": 39471,
   "timeLeft": 38.1,
   "bombPlanted": true,
   "clutcher": {
@@ -153,6 +155,7 @@
   "won": false,
   "startTick": 47521,
   "freezeTick": 48289,
+  "outcomeTick": 48417,
   "timeLeft": 21.5,
   "bombPlanted": true,
   "clutcher": {
@@ -215,6 +218,7 @@
   "won": false,
   "startTick": 133705,
   "freezeTick": 134473,
+  "outcomeTick": 134601,
   "timeLeft": 28.4,
   "bombPlanted": true,
   "clutcher": {
@@ -278,6 +282,7 @@
   "won": true,
   "startTick": 157554,
   "freezeTick": 158322,
+  "outcomeTick": 160377,
   "timeLeft": 13.6,
   "bombPlanted": false,
   "clutcher": {
@@ -345,6 +350,7 @@
   "won": false,
   "startTick": 15193,
   "freezeTick": 15961,
+  "outcomeTick": 16089,
   "timeLeft": 1.0,
   "bombPlanted": true,
   "clutcher": {
@@ -403,6 +409,7 @@
   "won": false,
   "startTick": 22221,
   "freezeTick": 22413,
+  "outcomeTick": 23983,
   "timeLeft": 41.2,
   "bombPlanted": false,
   "clutcher": {
@@ -463,6 +470,7 @@
   "won": true,
   "startTick": 57463,
   "freezeTick": 57742,
+  "outcomeTick": 58274,
   "timeLeft": 35.9,
   "bombPlanted": true,
   "clutcher": {
@@ -544,6 +552,7 @@
   "won": false,
   "startTick": 67399,
   "freezeTick": 68167,
+  "outcomeTick": 68295,
   "timeLeft": 1.0,
   "bombPlanted": true,
   "clutcher": {
@@ -618,6 +627,7 @@
   "won": true,
   "startTick": 73800,
   "freezeTick": 75799,
+  "outcomeTick": 75946,
   "timeLeft": 22.8,
   "bombPlanted": false,
   "clutcher": {
@@ -687,6 +697,7 @@
   "won": false,
   "startTick": 81474,
   "freezeTick": 82201,
+  "outcomeTick": 82630,
   "timeLeft": 42.3,
   "bombPlanted": false,
   "clutcher": {
@@ -751,6 +762,7 @@
   "won": false,
   "startTick": 22366,
   "freezeTick": 23077,
+  "outcomeTick": 23205,
   "timeLeft": 35.0,
   "bombPlanted": false,
   "clutcher": {
@@ -828,6 +840,7 @@
   "won": false,
   "startTick": 94457,
   "freezeTick": 95225,
+  "outcomeTick": 95434,
   "timeLeft": 34.9,
   "bombPlanted": true,
   "clutcher": {
@@ -904,6 +917,7 @@
   "won": false,
   "startTick": 105935,
   "freezeTick": 106703,
+  "outcomeTick": 106831,
   "timeLeft": 1.0,
   "bombPlanted": true,
   "clutcher": {
@@ -966,6 +980,7 @@
   "won": false,
   "startTick": 24337,
   "freezeTick": 24529,
+  "outcomeTick": 27030,
   "timeLeft": 39.1,
   "bombPlanted": false,
   "clutcher": {
@@ -1027,6 +1042,7 @@
   "won": false,
   "startTick": 80251,
   "freezeTick": 81019,
+  "outcomeTick": 81147,
   "timeLeft": 19.8,
   "bombPlanted": false,
   "clutcher": {
@@ -1087,6 +1103,7 @@
   "won": false,
   "startTick": 107440,
   "freezeTick": 108208,
+  "outcomeTick": 108336,
   "timeLeft": 64.0,
   "bombPlanted": false,
   "clutcher": {
@@ -1151,6 +1168,7 @@
   "won": false,
   "startTick": 119370,
   "freezeTick": 120089,
+  "outcomeTick": 120217,
   "timeLeft": 58.7,
   "bombPlanted": false,
   "clutcher": {
@@ -1216,6 +1234,7 @@
   "won": false,
   "startTick": 145658,
   "freezeTick": 146426,
+  "outcomeTick": 146554,
   "timeLeft": 36.3,
   "bombPlanted": false,
   "clutcher": {

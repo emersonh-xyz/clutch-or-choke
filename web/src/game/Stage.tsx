@@ -4,6 +4,7 @@ import type { Clutch } from '../types';
 import { Situation } from './Situation';
 
 const TICKRATE = 64;
+const REVEAL_AFTER = 1.5;
 // ponytail: fixed burst layout around the frozen frame
 const BURST = Array.from({ length: 12 }, (_, i) => ({
   x: `${(i * 53) % 100}%`,
@@ -30,6 +31,8 @@ export const Stage = ({ clutch, position, nextLabel, onAnswered, onNext }: Stage
   const [blocked, setBlocked] = useState(false);
   const [muted, setMuted] = useState(false);
   const freezeAt = (clutch.freezeTick - clutch.startTick) / TICKRATE;
+  // reveal shortly after the clutch is decided, not when the round finally ends
+  const revealAt = (clutch.outcomeTick - clutch.startTick) / TICKRATE + REVEAL_AFTER;
 
   // try with sound; browsers block that until the visitor has interacted, so fall back to muted
   const start = () => {
@@ -68,8 +71,15 @@ export const Stage = ({ clutch, position, nextLabel, onAnswered, onNext }: Stage
 
   const onTime = () => {
     const v = video.current;
-    if (!v || phase === 'deciding' || guess !== null) return;
-    if (v.currentTime >= freezeAt) {
+    if (!v) return;
+    if (guess !== null) {
+      if (v.currentTime >= revealAt) {
+        v.pause();
+        reveal();
+      }
+      return;
+    }
+    if (phase !== 'deciding' && v.currentTime >= freezeAt) {
       v.pause();
       v.currentTime = freezeAt;
       setPhase('deciding');
@@ -88,7 +98,7 @@ export const Stage = ({ clutch, position, nextLabel, onAnswered, onNext }: Stage
     }
   };
 
-  const onEnded = () => {
+  const reveal = () => {
     if (guess === null || phase === 'revealed') return;
     setPhase('revealed');
     onAnswered(guess === clutch.won);
@@ -124,7 +134,7 @@ export const Stage = ({ clutch, position, nextLabel, onAnswered, onNext }: Stage
             preload="auto"
             onPlaying={() => setPhase((p) => (p === 'loading' ? 'watching' : p))}
             onTimeUpdate={onTime}
-            onEnded={onEnded}
+            onEnded={reveal}
           />
           <div className="pane__frost" aria-hidden />
           {phase === 'deciding' && (

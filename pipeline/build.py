@@ -59,6 +59,7 @@ def entry(c, demo, map_name):
         "startTick": start,
         "stopTick": c["end_tick"] + TAIL,
         "freezeTick": c["freeze_tick"],
+        "outcomeTick": c["outcome_tick"],
         "timeLeft": c["time_left"],
         "bombPlanted": c["bomb_planted"],
         "clutcher": with_avatar(c["clutcher"]),

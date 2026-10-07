@@ -5,6 +5,8 @@ import { dayKey, loadDaily, pickDailySet, recordAnswer, saveDaily, type DailySta
 import { Results } from './game/Results';
 import { Stage } from './game/Stage';
 import type { Clutch } from './types';
+import { HowItWorks } from './HowItWorks';
+import { ThePrompt } from './ThePrompt';
 import { Water } from './Water';
 
 // each letter slumps a little more, as if the word is choking
@@ -62,6 +64,9 @@ export const App = () => {
             </p>
           </div>
           <div className="masthead__meta">
+            <a className="masthead__how" href="#how-it-works">
+              How it works
+            </a>
             <span className="masthead__day">{new Date().toLocaleDateString(undefined, { month: 'long', day: 'numeric' })}</span>
             {set.length > 0 && (
               <ol className="beads beads--small" aria-label="Today's progress">
@@ -101,12 +106,10 @@ export const App = () => {
           )}
 
           {!current && finished && <Results daily={daily} onPlayAgain={startOver} />}
-        </main>
 
-        <footer className="footnote">
-          Situations come straight from the demo file: health, armor, guns, utility and the round clock at the frozen
-          frame.
-        </footer>
+          <HowItWorks />
+          <ThePrompt />
+        </main>
       </div>
     </>
   );
