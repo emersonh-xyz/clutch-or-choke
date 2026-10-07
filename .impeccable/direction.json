@@ -1,0 +1,101 @@
+{
+  "title": "Choose the visual world",
+  "question": "Frutiger Aero is pinned. The roll picked which corner of that world to build. Keep it, take the alternate, or re-roll.",
+  "options": [
+    {
+      "id": "assigned",
+      "label": "Clear Water, Open Sky",
+      "kicker": "THE ROLL",
+      "lineage": "2006-2010 eco-tech screensavers and ads: sky, water, bubbles, glass",
+      "thesis": "Every clutch surfaces like a bubble from clear water; you read it through the glass before it breaks.",
+      "palette": ["#e9f7ff", "#38b6ff", "#0a6fb5", "#7ed957", "#ff7a3d"],
+      "materials": ["glossy glass bubbles", "water caustics", "sky gradient", "gel orb buttons"],
+      "viewport": "Bright sky meeting water; the clip floats in a thick glass pane, and at the freeze the players rise as glass bubbles holding their HP, gun and utility, with two gel orbs: green Clutch, orange Choke.",
+      "risk": "Reads as a Windows wallpaper costume if the bubbles are decoration instead of the data.",
+      "raised": [
+        {"from": "challenger-six-pack", "raise": "The situation card reads in one fixed cross-check order: clock, bomb, clutcher, then each opponent, every bubble the same anatomy."},
+        {"from": "challenger-specimen", "raise": "One enormous glossy 1v2 numeral carries the hierarchy at the freeze; everything else is small."},
+        {"from": "challenger-coptic", "raise": "The upload pipeline shows its structure: every step and every clip's state visible as bubbles rising, nothing behind a spinner."}
+      ]
+    },
+    {
+      "id": "model-pick",
+      "label": "Console Blades",
+      "kicker": "IMPECCABLE’S PICK",
+      "lineage": "2005 Xbox 360 Blades dashboard",
+      "thesis": "The game as a glossy console dashboard: Play, Upload and Results are blades you slide between.",
+      "palette": ["#ffffff", "#7ac943", "#2d8a1f", "#c8ccd0", "#1a1a1a"],
+      "materials": ["glossy blades", "chrome bevels", "soft white glow"],
+      "viewport": "Three stacked translucent blades; the front blade holds the clip and the call, the others peek from the side.",
+      "risk": "The most familiar gaming corner of Aero; also where most runs for a game would land."
+    },
+    {
+      "id": "challenger-six-pack",
+      "label": "Night Flight Six-Pack",
+      "verdict": "declined",
+      "lineage": "night instrument panels",
+      "thesis": "Six luminous gauges cross-checked in a fixed sweep.",
+      "palette": ["#0b0d0e", "#f2f2f2", "#5cff8a", "#ffb000"],
+      "materials": ["matte panel", "luminous dials"],
+      "viewport": "Clutch state as a six-gauge panel.",
+      "risk": "Fights the pinned Aero brief head on.",
+      "case": "Fuses poorly: dark instrument panel contradicts the pinned Frutiger Aero world.",
+      "kept": "A fixed cross-check reading order for the situation card.",
+      "hero": "https://impeccable.style/worlds/cards/signals-instruments-night-flight-six-pack-hero.webp"
+    },
+    {
+      "id": "challenger-specimen",
+      "label": "Variable Font Specimen",
+      "verdict": "declined",
+      "lineage": "foundry type specimens",
+      "thesis": "Hierarchy by scale contrast alone.",
+      "palette": ["#fafafa", "#111111", "#ff3b00"],
+      "materials": ["flat paper", "giant glyphs"],
+      "viewport": "One giant glyph and a live axis readout.",
+      "risk": "Austere flatness is the opposite of Aero gloss.",
+      "case": "Fuses poorly: no audience link to CS or to the pinned era.",
+      "kept": "One enormous numeral owns the freeze.",
+      "hero": "https://impeccable.style/worlds/cards/variable-font-specimen-hero.webp"
+    },
+    {
+      "id": "challenger-coptic",
+      "label": "Exposed Coptic Binding",
+      "verdict": "declined",
+      "lineage": "chain-stitch bookbinding",
+      "thesis": "Structure as the only ornament.",
+      "palette": ["#d9c7a3", "#6b4f2e", "#efe6d2"],
+      "materials": ["linen thread", "wooden boards"],
+      "viewport": "Sections as stitched signatures.",
+      "risk": "Craft-paper warmth contradicts the pinned brief.",
+      "case": "Fuses poorly: handmade book has no tie to the game or the era.",
+      "kept": "The pipeline shows its structure instead of hiding it.",
+      "hero": "https://impeccable.style/worlds/cards/craft-making-coptic-exposed-binding-hero.webp"
+    },
+    {
+      "id": "challenger-map",
+      "label": "Salt-Stiffened Treasure Map",
+      "verdict": "declined",
+      "lineage": "hand-drawn treasure maps",
+      "thesis": "Navigation as inference from clues.",
+      "palette": ["#cdb48a", "#4a3220", "#a8322a"],
+      "materials": ["vellum", "iron-gall ink"],
+      "viewport": "The round as a map of clues.",
+      "risk": "Parchment directly contradicts the pinned world.",
+      "case": "Fuses poorly: loses both audience and clarity against the pinned Aero brief.",
+      "kept": "The card is read as clues toward a call.",
+      "hero": "https://impeccable.style/worlds/cards/wayfinding-cartography-signage-salt-stiffened-treasure-map-hero.webp"
+    }
+  ],
+  "reroll": {"registers": ["safer", "bolder"]},
+  "buildPath": {"value": "code"},
+  "canon": true,
+  "canonCard": {
+    "label": "The category standard",
+    "thesis": "A dark esports stats overlay: black, neon accent, data tiles.",
+    "palette": ["#0d0f12", "#f2f2f2", "#3ecf6e"],
+    "materials": ["flat dark panels", "neon accent"],
+    "viewport": "Video top, stat tiles below, two buttons.",
+    "risk": "Ignores the pinned Frutiger Aero brief."
+  },
+  "steer": true
+}

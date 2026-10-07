@@ -1,0 +1,535 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-07T17:00:30.093566+00:00",
+  "title": "Design System: Clutch or Choke",
+  "extensions": {
+    "colorMeta": {
+      "sky-high": {
+        "role": "neutral",
+        "displayName": "Sky High",
+        "canonical": "#1677d2",
+        "tonalRamp": [
+          "oklch(15% 0.163 253)",
+          "oklch(26% 0.163 253)",
+          "oklch(38% 0.163 253)",
+          "oklch(49% 0.163 253)",
+          "oklch(61% 0.163 253)",
+          "oklch(72% 0.163 253)",
+          "oklch(84% 0.163 253)",
+          "oklch(95% 0.163 253)"
+        ]
+      },
+      "sky-mid": {
+        "role": "neutral",
+        "displayName": "Sky Mid",
+        "canonical": "#4fb2f2",
+        "tonalRamp": [
+          "oklch(15% 0.131 240)",
+          "oklch(26% 0.131 240)",
+          "oklch(38% 0.131 240)",
+          "oklch(49% 0.131 240)",
+          "oklch(61% 0.131 240)",
+          "oklch(72% 0.131 240)",
+          "oklch(84% 0.131 240)",
+          "oklch(95% 0.131 240)"
+        ]
+      },
+      "sky-low": {
+        "role": "neutral",
+        "displayName": "Sky Low",
+        "canonical": "#c9ecff",
+        "tonalRamp": [
+          "oklch(15% 0.045 232)",
+          "oklch(26% 0.045 232)",
+          "oklch(38% 0.045 232)",
+          "oklch(49% 0.045 232)",
+          "oklch(61% 0.045 232)",
+          "oklch(72% 0.045 232)",
+          "oklch(84% 0.045 232)",
+          "oklch(95% 0.045 232)"
+        ]
+      },
+      "horizon": {
+        "role": "neutral",
+        "displayName": "Horizon",
+        "canonical": "#f2fbff",
+        "tonalRamp": [
+          "oklch(15% 0.011 226)",
+          "oklch(26% 0.011 226)",
+          "oklch(38% 0.011 226)",
+          "oklch(49% 0.011 226)",
+          "oklch(61% 0.011 226)",
+          "oklch(72% 0.011 226)",
+          "oklch(84% 0.011 226)",
+          "oklch(95% 0.011 226)"
+        ]
+      },
+      "sea-top": {
+        "role": "neutral",
+        "displayName": "Sea Top",
+        "canonical": "#43c3ee",
+        "tonalRamp": [
+          "oklch(15% 0.125 225)",
+          "oklch(26% 0.125 225)",
+          "oklch(38% 0.125 225)",
+          "oklch(49% 0.125 225)",
+          "oklch(61% 0.125 225)",
+          "oklch(72% 0.125 225)",
+          "oklch(84% 0.125 225)",
+          "oklch(95% 0.125 225)"
+        ]
+      },
+      "sea-mid": {
+        "role": "neutral",
+        "displayName": "Sea Mid",
+        "canonical": "#22b4dc",
+        "tonalRamp": [
+          "oklch(15% 0.126 222)",
+          "oklch(26% 0.126 222)",
+          "oklch(38% 0.126 222)",
+          "oklch(49% 0.126 222)",
+          "oklch(61% 0.126 222)",
+          "oklch(72% 0.126 222)",
+          "oklch(84% 0.126 222)",
+          "oklch(95% 0.126 222)"
+        ]
+      },
+      "sea-deep": {
+        "role": "neutral",
+        "displayName": "Sea Deep",
+        "canonical": "#0a789f",
+        "tonalRamp": [
+          "oklch(15% 0.105 230)",
+          "oklch(26% 0.105 230)",
+          "oklch(38% 0.105 230)",
+          "oklch(49% 0.105 230)",
+          "oklch(61% 0.105 230)",
+          "oklch(72% 0.105 230)",
+          "oklch(84% 0.105 230)",
+          "oklch(95% 0.105 230)"
+        ]
+      },
+      "aqua-highlight": {
+        "role": "neutral",
+        "displayName": "Aqua Highlight",
+        "canonical": "#38b6ff",
+        "tonalRamp": [
+          "oklch(15% 0.150 240)",
+          "oklch(26% 0.150 240)",
+          "oklch(38% 0.150 240)",
+          "oklch(49% 0.150 240)",
+          "oklch(61% 0.150 240)",
+          "oklch(72% 0.150 240)",
+          "oklch(84% 0.150 240)",
+          "oklch(95% 0.150 240)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Deep Navy Ink",
+        "canonical": "#0a3554",
+        "tonalRamp": [
+          "oklch(15% 0.071 245)",
+          "oklch(26% 0.071 245)",
+          "oklch(38% 0.071 245)",
+          "oklch(49% 0.071 245)",
+          "oklch(61% 0.071 245)",
+          "oklch(72% 0.071 245)",
+          "oklch(84% 0.071 245)",
+          "oklch(95% 0.071 245)"
+        ]
+      },
+      "ink-soft": {
+        "role": "neutral",
+        "displayName": "Soft Navy",
+        "canonical": "#1f5479",
+        "tonalRamp": [
+          "oklch(15% 0.083 243)",
+          "oklch(26% 0.083 243)",
+          "oklch(38% 0.083 243)",
+          "oklch(49% 0.083 243)",
+          "oklch(61% 0.083 243)",
+          "oklch(72% 0.083 243)",
+          "oklch(84% 0.083 243)",
+          "oklch(95% 0.083 243)"
+        ]
+      },
+      "ink-faint": {
+        "role": "neutral",
+        "displayName": "Faded Navy",
+        "canonical": "#5a87a8",
+        "tonalRamp": [
+          "oklch(15% 0.071 241)",
+          "oklch(26% 0.071 241)",
+          "oklch(38% 0.071 241)",
+          "oklch(49% 0.071 241)",
+          "oklch(61% 0.071 241)",
+          "oklch(72% 0.071 241)",
+          "oklch(84% 0.071 241)",
+          "oklch(95% 0.071 241)"
+        ]
+      },
+      "glass": {
+        "role": "neutral",
+        "displayName": "Glass",
+        "canonical": "rgba(255, 255, 255, 0.4)"
+      },
+      "glass-strong": {
+        "role": "neutral",
+        "displayName": "Glass Strong",
+        "canonical": "rgba(255, 255, 255, 0.72)"
+      },
+      "glass-edge": {
+        "role": "neutral",
+        "displayName": "Glass Edge",
+        "canonical": "rgba(255, 255, 255, 0.9)"
+      },
+      "leaf-top": {
+        "role": "primary",
+        "displayName": "Gel Leaf Highlight",
+        "canonical": "#9df07a",
+        "tonalRamp": [
+          "oklch(15% 0.173 137)",
+          "oklch(26% 0.173 137)",
+          "oklch(38% 0.173 137)",
+          "oklch(49% 0.173 137)",
+          "oklch(61% 0.173 137)",
+          "oklch(72% 0.173 137)",
+          "oklch(84% 0.173 137)",
+          "oklch(95% 0.173 137)"
+        ]
+      },
+      "leaf": {
+        "role": "primary",
+        "displayName": "Gel Leaf Green",
+        "canonical": "#4cbf2c",
+        "tonalRamp": [
+          "oklch(15% 0.200 140)",
+          "oklch(26% 0.200 140)",
+          "oklch(38% 0.200 140)",
+          "oklch(49% 0.200 140)",
+          "oklch(61% 0.200 140)",
+          "oklch(72% 0.200 140)",
+          "oklch(84% 0.200 140)",
+          "oklch(95% 0.200 140)"
+        ]
+      },
+      "leaf-deep": {
+        "role": "primary",
+        "displayName": "Gel Leaf Deep",
+        "canonical": "#23801a",
+        "tonalRamp": [
+          "oklch(15% 0.160 142)",
+          "oklch(26% 0.160 142)",
+          "oklch(38% 0.160 142)",
+          "oklch(49% 0.160 142)",
+          "oklch(61% 0.160 142)",
+          "oklch(72% 0.160 142)",
+          "oklch(84% 0.160 142)",
+          "oklch(95% 0.160 142)"
+        ]
+      },
+      "sunset-top": {
+        "role": "primary",
+        "displayName": "Gel Sunset Highlight",
+        "canonical": "#ffc58a",
+        "tonalRamp": [
+          "oklch(15% 0.100 66)",
+          "oklch(26% 0.100 66)",
+          "oklch(38% 0.100 66)",
+          "oklch(49% 0.100 66)",
+          "oklch(61% 0.100 66)",
+          "oklch(72% 0.100 66)",
+          "oklch(84% 0.100 66)",
+          "oklch(95% 0.100 66)"
+        ]
+      },
+      "sunset": {
+        "role": "primary",
+        "displayName": "Gel Sunset Orange",
+        "canonical": "#ff8a3d",
+        "tonalRamp": [
+          "oklch(15% 0.167 51)",
+          "oklch(26% 0.167 51)",
+          "oklch(38% 0.167 51)",
+          "oklch(49% 0.167 51)",
+          "oklch(61% 0.167 51)",
+          "oklch(72% 0.167 51)",
+          "oklch(84% 0.167 51)",
+          "oklch(95% 0.167 51)"
+        ]
+      },
+      "sunset-deep": {
+        "role": "primary",
+        "displayName": "Gel Sunset Deep",
+        "canonical": "#c24a0a",
+        "tonalRamp": [
+          "oklch(15% 0.167 42)",
+          "oklch(26% 0.167 42)",
+          "oklch(38% 0.167 42)",
+          "oklch(49% 0.167 42)",
+          "oklch(61% 0.167 42)",
+          "oklch(72% 0.167 42)",
+          "oklch(84% 0.167 42)",
+          "oklch(95% 0.167 42)"
+        ]
+      },
+      "choke-candy": {
+        "role": "tertiary",
+        "displayName": "Candy Choke Orange",
+        "canonical": "#ffa04f",
+        "tonalRamp": [
+          "oklch(15% 0.148 58)",
+          "oklch(26% 0.148 58)",
+          "oklch(38% 0.148 58)",
+          "oklch(49% 0.148 58)",
+          "oklch(61% 0.148 58)",
+          "oklch(72% 0.148 58)",
+          "oklch(84% 0.148 58)",
+          "oklch(95% 0.148 58)"
+        ]
+      },
+      "side-ct": {
+        "role": "tertiary",
+        "displayName": "Team CT Blue",
+        "canonical": "#2f8fe8",
+        "tonalRamp": [
+          "oklch(15% 0.160 251)",
+          "oklch(26% 0.160 251)",
+          "oklch(38% 0.160 251)",
+          "oklch(49% 0.160 251)",
+          "oklch(61% 0.160 251)",
+          "oklch(72% 0.160 251)",
+          "oklch(84% 0.160 251)",
+          "oklch(95% 0.160 251)"
+        ]
+      },
+      "side-t": {
+        "role": "tertiary",
+        "displayName": "Team T Amber",
+        "canonical": "#e9a524",
+        "tonalRamp": [
+          "oklch(15% 0.152 77)",
+          "oklch(26% 0.152 77)",
+          "oklch(38% 0.152 77)",
+          "oklch(49% 0.152 77)",
+          "oklch(61% 0.152 77)",
+          "oklch(72% 0.152 77)",
+          "oklch(84% 0.152 77)",
+          "oklch(95% 0.152 77)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Wordmark",
+        "purpose": "The wordmark only."
+      },
+      "numeral": {
+        "displayName": "Numeral",
+        "purpose": "The giant 1vX over the frozen frame."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Results title, verdict outcome, section heading."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Orb labels, player and team names."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Captions, ledes, footnote."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Side badges and utility chips."
+      }
+    },
+    "shadows": [
+      {
+        "name": "pane-float",
+        "value": "0 24px 48px -18px rgba(5, 58, 108, 0.55)",
+        "purpose": "Clip pane, verdict card, upload card."
+      },
+      {
+        "name": "tray-float",
+        "value": "0 16px 30px -18px rgba(5, 58, 108, 0.8), inset 0 1px 0 #fff",
+        "purpose": "Team trays."
+      },
+      {
+        "name": "chip-float",
+        "value": "0 8px 18px -10px rgba(5, 58, 108, 0.7)",
+        "purpose": "Clock chip, meta pill, sound button."
+      },
+      {
+        "name": "gel-lift",
+        "value": "0 8px 16px -8px rgba(5, 58, 108, 0.8), inset 0 1px 0 rgba(255, 255, 255, 0.9)",
+        "purpose": "Pills."
+      },
+      {
+        "name": "focus-halo",
+        "value": "0 0 0 7px rgba(22, 119, 210, 0.55)",
+        "purpose": "With a 3px white outline at 3px offset on every focusable element."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-out",
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Every state transition and entrance."
+      },
+      {
+        "name": "rise",
+        "value": "0.6s, from translateY(18px) scale(0.97) opacity 0",
+        "purpose": "Entrance for cards, rows, chips; staggered 70 to 90ms."
+      },
+      {
+        "name": "caustics",
+        "value": "24s ease-in-out infinite alternate, translate(6%, 4%)",
+        "purpose": "Drift of the single untiled caustic field."
+      },
+      {
+        "name": "press",
+        "value": "0.2s to 0.25s",
+        "purpose": "Pill and orb hover lift and press."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "stage-stack",
+        "value": "1100px"
+      },
+      {
+        "name": "compact",
+        "value": "760px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Gel Pill Button",
+      "kind": "button",
+      "refersTo": "button-gel",
+      "description": "Primary action pill (Next clutch, Copy result).",
+      "html": "<button class=\"ds-pill\">Next clutch <svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M5 12h14\"/><path d=\"m12 5 7 7-7 7\"/></svg></button>",
+      "css": ".ds-pill{font-family:'Nunito Variable','Nunito',sans-serif;display:inline-flex;align-items:center;gap:8px;padding:10px 22px;border-radius:999px;border:1px solid #5fb3e4;background:linear-gradient(180deg, #c4eeff 0%, #7fd5fb 49%, #3fb3ee 50%, #8edcff 100%);color:#062c47;font-weight:800;font-size:16px;cursor:pointer;box-shadow:0 8px 16px -8px rgba(5,58,108,.8),inset 0 1px 0 rgba(255,255,255,.9);transition:transform .2s cubic-bezier(.16,1,.3,1),filter .2s cubic-bezier(.16,1,.3,1)}.ds-pill:hover{filter:brightness(1.06) saturate(1.1);transform:translateY(-1px)}.ds-pill:active{transform:translateY(1px)}.ds-pill:focus-visible{outline:3px solid #fff;outline-offset:3px;box-shadow:0 0 0 7px rgba(22,119,210,.55)}"
+    },
+    {
+      "name": "Ghost Gel Pill",
+      "kind": "button",
+      "refersTo": "button-gel-ghost",
+      "description": "Secondary pill (Watch again).",
+      "html": "<button class=\"ds-pill-ghost\">Watch again</button>",
+      "css": ".ds-pill-ghost{font-family:'Nunito Variable','Nunito',sans-serif;display:inline-flex;align-items:center;gap:8px;padding:10px 22px;border-radius:999px;border:1px solid #a8d6f2;background:linear-gradient(180deg, #ffffff 0%, #e8f6ff 49%, #cbe9fc 50%, #eef9ff 100%);color:#062c47;font-weight:800;font-size:16px;cursor:pointer;box-shadow:0 8px 16px -8px rgba(5,58,108,.8),inset 0 1px 0 rgba(255,255,255,.9);transition:transform .2s,filter .2s}.ds-pill-ghost:hover{filter:brightness(1.06) saturate(1.1);transform:translateY(-1px)}.ds-pill-ghost:focus-visible{outline:3px solid #fff;outline-offset:3px;box-shadow:0 0 0 7px rgba(22,119,210,.55)}"
+    },
+    {
+      "name": "Clutch Orb",
+      "kind": "button",
+      "refersTo": "orb-clutch",
+      "description": "Decision orb; the only call on the page.",
+      "html": "<button class=\"ds-orb-clutch\"><span class=\"ds-orb-label\">Clutch</span><kbd>C</kbd></button>",
+      "css": ".ds-orb-clutch{font-family:'Nunito Variable','Nunito',sans-serif;position:relative;display:grid;place-items:center;align-content:center;gap:2px;width:136px;height:136px;border:0;border-radius:50%;color:#fff;cursor:pointer;background:radial-gradient(circle at 50% 115%,rgba(255,255,255,.55) 0%,rgba(255,255,255,0) 45%),radial-gradient(circle at 50% 28%,#9df07a 0%,#4cbf2c 42%,#23801a 82%);box-shadow:0 16px 26px -10px rgba(5,50,30,.6),inset 0 -8px 16px rgba(0,0,0,.18),inset 0 0 0 2px rgba(255,255,255,.35);transition:transform .25s cubic-bezier(.16,1,.3,1)}.ds-orb-clutch::before{content:\"\";position:absolute;inset:6% 18% auto 18%;height:40%;border-radius:50%;background:linear-gradient(180deg,rgba(255,255,255,.92),rgba(255,255,255,.08))}.ds-orb-clutch:hover{transform:translateY(-4px) scale(1.04)}.ds-orb-clutch:active{transform:translateY(1px) scale(.97)}.ds-orb-clutch:focus-visible{outline:3px solid #fff;outline-offset:3px}.ds-orb-clutch .ds-orb-label{position:relative;margin-top:22px;font-size:1.4rem;font-weight:900;text-shadow:0 1px 2px rgba(0,0,0,.45)}.ds-orb-clutch kbd{position:relative;font:inherit;font-size:.75rem;font-weight:800;padding:0 7px;border-radius:6px;background:rgba(0,0,0,.22)}"
+    },
+    {
+      "name": "Choke Orb",
+      "kind": "button",
+      "refersTo": "orb-choke",
+      "description": "Decision orb; the only call on the page.",
+      "html": "<button class=\"ds-orb-choke\"><span class=\"ds-orb-label\">Choke</span><kbd>X</kbd></button>",
+      "css": ".ds-orb-choke{font-family:'Nunito Variable','Nunito',sans-serif;position:relative;display:grid;place-items:center;align-content:center;gap:2px;width:136px;height:136px;border:0;border-radius:50%;color:#fff;cursor:pointer;background:radial-gradient(circle at 50% 115%,rgba(255,255,255,.55) 0%,rgba(255,255,255,0) 45%),radial-gradient(circle at 50% 28%,#ffc58a 0%,#ff8a3d 42%,#c24a0a 82%);box-shadow:0 16px 26px -10px rgba(90,30,0,.55),inset 0 -8px 16px rgba(0,0,0,.18),inset 0 0 0 2px rgba(255,255,255,.35);transition:transform .25s cubic-bezier(.16,1,.3,1)}.ds-orb-choke::before{content:\"\";position:absolute;inset:6% 18% auto 18%;height:40%;border-radius:50%;background:linear-gradient(180deg,rgba(255,255,255,.92),rgba(255,255,255,.08))}.ds-orb-choke:hover{transform:translateY(-4px) scale(1.04)}.ds-orb-choke:active{transform:translateY(1px) scale(.97)}.ds-orb-choke:focus-visible{outline:3px solid #fff;outline-offset:3px}.ds-orb-choke .ds-orb-label{position:relative;margin-top:22px;font-size:1.4rem;font-weight:900;text-shadow:0 1px 2px rgba(0,0,0,.45)}.ds-orb-choke kbd{position:relative;font:inherit;font-size:.75rem;font-weight:800;padding:0 7px;border-radius:6px;background:rgba(0,0,0,.22)}"
+    },
+    {
+      "name": "Pearl Chip",
+      "kind": "chip",
+      "refersTo": "chip-pearl",
+      "description": "Utility chips (Flash, Smoke).",
+      "html": "<span class=\"ds-chip\">Flash ×2</span>",
+      "css": ".ds-chip{font-family:'Nunito Variable','Nunito',sans-serif;display:inline-block;padding:1px 9px;border-radius:999px;font-size:.78rem;font-weight:700;color:#1f5479;background:linear-gradient(180deg, #ffffff 0%, #e8f6ff 49%, #cbe9fc 50%, #eef9ff 100%);border:1px solid #b6dcf3}"
+    },
+    {
+      "name": "Glass Pane",
+      "kind": "card",
+      "refersTo": "glass-pane",
+      "description": "Thick glass frame around the 16:9 clip.",
+      "html": "<div class=\"ds-pane\"><div class=\"ds-pane-screen\"></div></div>",
+      "css": ".ds-pane{position:relative;width:320px;padding:12px;border-radius:28px;background:linear-gradient(180deg,rgba(255,255,255,.62),rgba(255,255,255,.5));border:1px solid rgba(255,255,255,.9);box-shadow:0 24px 48px -18px rgba(5,58,108,.55),inset 0 1px 0 #fff,inset 0 -10px 30px rgba(110,200,255,.25);backdrop-filter:blur(16px) saturate(140%)}.ds-pane-screen{aspect-ratio:16/9;border-radius:18px;background:radial-gradient(circle at 50% 40%,#0d4f7e,#04243d)}"
+    },
+    {
+      "name": "Team Tray",
+      "kind": "card",
+      "refersTo": "glass-tray",
+      "description": "One tray per team, colored by side.",
+      "html": "<div class=\"ds-tray\"><div class=\"ds-tray-head\"><span class=\"ds-side\">CT</span><b>RUSTEC</b></div><div class=\"ds-row\">anttzz</div></div>",
+      "css": ".ds-tray{font-family:'Nunito Variable','Nunito',sans-serif;width:300px;overflow:hidden;border-radius:24px;color:#0a3554;background:linear-gradient(180deg,rgba(47,143,232,.14),rgba(255,255,255,0) 70%),linear-gradient(180deg,rgba(255,255,255,.86),rgba(255,255,255,.62));border:1px solid rgba(255,255,255,.9);box-shadow:0 16px 30px -18px rgba(5,58,108,.8),inset 0 1px 0 #fff;backdrop-filter:blur(12px)}.ds-tray-head{display:flex;align-items:center;gap:8px;padding:10px 14px;border-top:4px solid #2f8fe8}.ds-side{padding:1px 9px;border-radius:999px;background:#2f8fe8;color:#fff;font-size:.78rem;font-weight:900;letter-spacing:.04em}.ds-row{padding:10px 14px 12px;border-top:1px solid rgba(255,255,255,.9);font-weight:900}"
+    },
+    {
+      "name": "HP Orb",
+      "kind": "custom",
+      "refersTo": null,
+      "description": "Glass sphere whose water level is player health.",
+      "html": "<div class=\"ds-hp\" style=\"--hp:70\"><div class=\"ds-hp-water\"></div><span>70</span></div>",
+      "css": ".ds-hp{font-family:'Nunito Variable','Nunito',sans-serif;position:relative;display:grid;place-items:center;width:52px;height:52px;overflow:hidden;border-radius:50%;background:radial-gradient(circle at 50% 35%,#fff,#e2f3ff);box-shadow:0 0 0 2px #fff,0 6px 14px -4px rgba(5,58,108,.6)}.ds-hp-water{position:absolute;inset:0;transform:translateY(calc((100 - var(--hp)) * 1%));background:linear-gradient(180deg,#7fdcff,#1f9be0)}.ds-hp span{position:relative;font-size:1.15rem;font-weight:900;color:#0a3554;text-shadow:0 0 6px rgba(255,255,255,.95)}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Clear Water, Open Sky",
+    "overview": "The whole product sits in an early 2000s Frutiger Aero world: a saturated sky gradient falls to a pale horizon, a band of clear aqua water with slow caustic light fills the lower third, and soap bubbles drift up through the page. Every surface on top of that world is glass: thick, glossy, white-edged panes with a bright top highlight and a soft blue underglow. You read the round through the glass; at the decision moment the clip frosts over, a sheen crosses it, and bubbles burst from the pane.\n\nDensity is moderate and readable. One large glass pane holds the clip, glass trays hold each team's players, and two big gel orbs carry the only decision on the page. Type is a single rounded humanist family set heavy and white on the sky, dark ink on glass. The system is light-only and refuses the dark esports stats overlay; nothing here is matte, flat, or grey.\n\nThe one deliberate break from all-white display type is the wordmark's \"CHOke\": candy orange letters that slump and tilt like they are losing their grip, the choke made literal. It is the brand's signature, not a pattern to repeat.",
+    "keyCharacteristics": [
+      "Sky-to-water backdrop is fixed behind everything; content floats on it. The caustic light is one untiled SVG turbulence field, oversized to 120% and drifting slowly by transform (24s), so it never shows tile seams.",
+      "Glass panes with white 1px edges, inner top highlight, and blue-tinted soft drop shadows.",
+      "Gel (split-gradient, glossy) fills for every interactive pill and orb.",
+      "Circles everywhere: bubbles, HP orbs, avatars, beads, step bubbles, decision orbs.",
+      "One family (Nunito Variable), heavy weights (700 to 900) carry the hierarchy.",
+      "Green means clutch/right, orange means choke/wrong; nothing else uses those hues."
+    ],
+    "rules": [
+      {
+        "name": "The Verdict Pair Rule",
+        "body": "Green and orange gel are reserved for the clutch/choke meaning (the call, the outcome, right/wrong, healthy/hurt). Never use them as generic accent or decoration.",
+        "section": "colors"
+      },
+      {
+        "name": "The White Edge Rule",
+        "body": "Every glass surface carries a near-white 1px border (glass-edge or #fff) plus an inset 1px white top highlight. A glass surface without its edge reads as a grey box.",
+        "section": "colors"
+      },
+      {
+        "name": "The Tabular Numbers Rule",
+        "body": "Every live number (HP, clock, ammo, position, streak, numeral) uses `font-variant-numeric: tabular-nums` so values never jitter as they change.",
+        "section": "typography"
+      },
+      {
+        "name": "The One Family Rule",
+        "body": "No second display face. Emphasis is weight and gloss, never a new font.",
+        "section": "typography"
+      },
+      {
+        "name": "The Gloss Cap Rule",
+        "body": "Every pane, orb, bead, and HP orb carries a white highlight cap on its upper half (a pseudo-element gradient from about 75 to 92% white to transparent). The cap is what makes the material read as glass or gel.",
+        "section": "elevation"
+      },
+      {
+        "name": "The Tinted Shadow Rule",
+        "body": "Shadows are navy-blue or hue-matched, never neutral black, and always soft. No hard offset box shadows.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do put every surface on glass: white 1px edge, inset top highlight, tinted soft shadow, backdrop blur.",
+      "Do use gel split gradients (`--aqua-gel`, `--pearl-gel`) for anything clickable, and three-stop radials for spheres.",
+      "Do reserve leaf green and sunset orange for the clutch/choke meaning.",
+      "Do set every live number in tabular figures and every name or number that must be read fast at 900.",
+      "Do ease motion with `cubic-bezier(0.16, 1, 0.3, 1)` and make things rise in (translateY 18px, scale 0.97) with short staggers; honor reduced motion by cutting bubbles and bursts entirely.",
+      "Do keep the slumping candy-orange \"CHOke\" as the wordmark's one exception to white display type."
+    ],
+    "donts": [
+      "Don't introduce dark mode, dark panels, or a dark esports stats overlay look.",
+      "Don't use flat, matte, or grey fills, or neutral black shadows.",
+      "Don't add a second typeface or uppercase-tracked label styles.",
+      "Don't use em dashes in any copy.",
+      "Don't show the Allstar name, logo, or any credit anywhere on the site.",
+      "Don't use leaf green or sunset orange for decoration, links, or generic emphasis."
+    ]
+  }
+}

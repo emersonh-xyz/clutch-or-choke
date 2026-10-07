@@ -1,0 +1,1269 @@
+[
+ {
+  "id": "ex-ruby-vs-rustec-m1-nuke-r5",
+  "map": "Nuke",
+  "round": 5,
+  "player": "YumsaN",
+  "side": "T",
+  "vs": 3,
+  "won": false,
+  "startTick": 29751,
+  "freezeTick": 30519,
+  "timeLeft": 2.0,
+  "bombPlanted": false,
+  "clutcher": {
+   "name": "YumsaN",
+   "steamId": "76561198149085633",
+   "team": "ex-RUBY",
+   "hp": 58,
+   "armor": 92,
+   "helmet": false,
+   "kit": false,
+   "weapon": "AWP",
+   "ammo": 1,
+   "utility": [],
+   "place": "Outside",
+   "avatar": "https://avatars.fastly.steamstatic.com/e0aa17e317c8f0d9333bd393c7fd71f3de21aa85_full.jpg"
+  },
+  "opponents": [
+   {
+    "name": "Brilliance",
+    "steamId": "76561197967402670",
+    "team": "RUSTEC",
+    "hp": 39,
+    "armor": 93,
+    "helmet": true,
+    "kit": true,
+    "weapon": "M4A4",
+    "ammo": 17,
+    "utility": [],
+    "place": "BombsiteA",
+    "avatar": "https://avatars.fastly.steamstatic.com/78c1244a24cdab4441e342732cd6d66329be9c2f_full.jpg"
+   },
+   {
+    "name": "anttzz",
+    "steamId": "76561198095744377",
+    "team": "RUSTEC",
+    "hp": 46,
+    "armor": 94,
+    "helmet": true,
+    "kit": false,
+    "weapon": "AK-47",
+    "ammo": 30,
+    "utility": [
+     "Flashbang"
+    ],
+    "place": "BombsiteA",
+    "avatar": "https://avatars.fastly.steamstatic.com/a400108cc623a4e02495fbe8e89c15d87781131c_full.jpg"
+   },
+   {
+    "name": "supra",
+    "steamId": "76561198125067919",
+    "team": "RUSTEC",
+    "hp": 100,
+    "armor": 98,
+    "helmet": true,
+    "kit": true,
+    "weapon": "AK-47",
+    "ammo": 21,
+    "utility": [
+     "Flashbang",
+     "High Explosive Grenade"
+    ],
+    "place": "Catwalk",
+    "avatar": "https://avatars.fastly.steamstatic.com/816ccfd3424bf9adf2ec5e4a8c403e4b0f55e5db_full.jpg"
+   }
+  ],
+  "videoUrl": "https://media2.allstar.gg/6994dc94322cdd883bb1102a/clips/6ac670a8ea7ac8cc7b8c1b8e.mp4"
+ },
+ {
+  "id": "ex-ruby-vs-rustec-m1-nuke-r6",
+  "map": "Nuke",
+  "round": 6,
+  "player": "robo",
+  "side": "T",
+  "vs": 2,
+  "won": false,
+  "startTick": 39125,
+  "freezeTick": 39317,
+  "timeLeft": 38.1,
+  "bombPlanted": true,
+  "clutcher": {
+   "name": "robo",
+   "steamId": "76561199120712009",
+   "team": "ex-RUBY",
+   "hp": 100,
+   "armor": 100,
+   "helmet": false,
+   "kit": false,
+   "weapon": "M4A4",
+   "ammo": 8,
+   "utility": [
+    "Flashbang",
+    "Flashbang"
+   ],
+   "place": "BombsiteB",
+   "avatar": "https://avatars.fastly.steamstatic.com/d0edfa50d3095bf6e0de2086a4e6babde536f141_full.jpg"
+  },
+  "opponents": [
+   {
+    "name": "anttzz",
+    "steamId": "76561198095744377",
+    "team": "RUSTEC",
+    "hp": 100,
+    "armor": 94,
+    "helmet": true,
+    "kit": false,
+    "weapon": "AK-47",
+    "ammo": 30,
+    "utility": [
+     "Flashbang",
+     "Incendiary Grenade"
+    ],
+    "place": "Tunnels",
+    "avatar": "https://avatars.fastly.steamstatic.com/a400108cc623a4e02495fbe8e89c15d87781131c_full.jpg"
+   },
+   {
+    "name": "youka",
+    "steamId": "76561198846386512",
+    "team": "RUSTEC",
+    "hp": 100,
+    "armor": 100,
+    "helmet": true,
+    "kit": false,
+    "weapon": "AWP",
+    "ammo": 3,
+    "utility": [
+     "Flashbang",
+     "Smoke Grenade"
+    ],
+    "place": "Ramp",
+    "avatar": "https://avatars.fastly.steamstatic.com/9d46e40f3c6a052e8813d341857a28a0c91edb3e_full.jpg"
+   }
+  ],
+  "videoUrl": "https://media2.allstar.gg/66df9d749951fe6a81b9db96/clips/6ac670a7f895818abad7c660.mp4"
+ },
+ {
+  "id": "ex-ruby-vs-rustec-m1-nuke-r7",
+  "map": "Nuke",
+  "round": 7,
+  "player": "YumsaN",
+  "side": "T",
+  "vs": 2,
+  "won": false,
+  "startTick": 47521,
+  "freezeTick": 48289,
+  "timeLeft": 21.5,
+  "bombPlanted": true,
+  "clutcher": {
+   "name": "YumsaN",
+   "steamId": "76561198149085633",
+   "team": "ex-RUBY",
+   "hp": 7,
+   "armor": 89,
+   "helmet": false,
+   "kit": false,
+   "weapon": "AK-47",
+   "ammo": 30,
+   "utility": [
+    "Flashbang"
+   ],
+   "place": "BombsiteA",
+   "avatar": "https://avatars.fastly.steamstatic.com/e0aa17e317c8f0d9333bd393c7fd71f3de21aa85_full.jpg"
+  },
+  "opponents": [
+   {
+    "name": "jakekeS",
+    "steamId": "76561198158539864",
+    "team": "RUSTEC",
+    "hp": 92,
+    "armor": 95,
+    "helmet": true,
+    "kit": false,
+    "weapon": "M4A4",
+    "ammo": 21,
+    "utility": [],
+    "place": "Heaven",
+    "avatar": "https://avatars.fastly.steamstatic.com/ccab287fca841a0ec37e067284b8f8311d552700_full.jpg"
+   },
+   {
+    "name": "youka",
+    "steamId": "76561198846386512",
+    "team": "RUSTEC",
+    "hp": 100,
+    "armor": 100,
+    "helmet": true,
+    "kit": true,
+    "weapon": "AK-47",
+    "ammo": 21,
+    "utility": [
+     "Smoke Grenade"
+    ],
+    "place": "Mini",
+    "avatar": "https://avatars.fastly.steamstatic.com/9d46e40f3c6a052e8813d341857a28a0c91edb3e_full.jpg"
+   }
+  ],
+  "videoUrl": "https://media2.allstar.gg/6994dc94322cdd883bb1102a/clips/6ac670a82d626b84c386f656.mp4"
+ },
+ {
+  "id": "ex-ruby-vs-rustec-m1-nuke-r18",
+  "map": "Nuke",
+  "round": 18,
+  "player": "YumsaN",
+  "side": "CT",
+  "vs": 2,
+  "won": false,
+  "startTick": 133705,
+  "freezeTick": 134473,
+  "timeLeft": 28.4,
+  "bombPlanted": true,
+  "clutcher": {
+   "name": "YumsaN",
+   "steamId": "76561198149085633",
+   "team": "ex-RUBY",
+   "hp": 100,
+   "armor": 100,
+   "helmet": true,
+   "kit": true,
+   "weapon": "AK-47",
+   "ammo": 26,
+   "utility": [
+    "Flashbang"
+   ],
+   "place": "BombsiteB",
+   "avatar": "https://avatars.fastly.steamstatic.com/e0aa17e317c8f0d9333bd393c7fd71f3de21aa85_full.jpg"
+  },
+  "opponents": [
+   {
+    "name": "supra",
+    "steamId": "76561198125067919",
+    "team": "RUSTEC",
+    "hp": 97,
+    "armor": 98,
+    "helmet": true,
+    "kit": false,
+    "weapon": "AK-47",
+    "ammo": 21,
+    "utility": [
+     "Flashbang",
+     "Flashbang"
+    ],
+    "place": "BombsiteB",
+    "avatar": "https://avatars.fastly.steamstatic.com/816ccfd3424bf9adf2ec5e4a8c403e4b0f55e5db_full.jpg"
+   },
+   {
+    "name": "youka",
+    "steamId": "76561198846386512",
+    "team": "RUSTEC",
+    "hp": 87,
+    "armor": 100,
+    "helmet": true,
+    "kit": false,
+    "weapon": "AK-47",
+    "ammo": 8,
+    "utility": [],
+    "place": "BombsiteB",
+    "avatar": "https://avatars.fastly.steamstatic.com/9d46e40f3c6a052e8813d341857a28a0c91edb3e_full.jpg"
+   }
+  ],
+  "videoUrl": "https://media2.allstar.gg/6994dc94322cdd883bb1102a/clips/6ac670a8450b184d0185278d.mp4"
+ },
+ {
+  "id": "ex-ruby-vs-rustec-m1-nuke-r21",
+  "map": "Nuke",
+  "round": 21,
+  "player": "supra",
+  "side": "T",
+  "vs": 2,
+  "won": true,
+  "startTick": 157554,
+  "freezeTick": 158322,
+  "timeLeft": 13.6,
+  "bombPlanted": false,
+  "clutcher": {
+   "name": "supra",
+   "steamId": "76561198125067919",
+   "team": "RUSTEC",
+   "hp": 70,
+   "armor": 97,
+   "helmet": true,
+   "kit": false,
+   "weapon": "AK-47",
+   "ammo": 30,
+   "utility": [
+    "Flashbang",
+    "Flashbang",
+    "C4 Explosive"
+   ],
+   "place": "Tunnels",
+   "avatar": "https://avatars.fastly.steamstatic.com/816ccfd3424bf9adf2ec5e4a8c403e4b0f55e5db_full.jpg"
+  },
+  "opponents": [
+   {
+    "name": "relaxxie",
+    "steamId": "76561199384986887",
+    "team": "ex-RUBY",
+    "hp": 100,
+    "armor": 100,
+    "helmet": true,
+    "kit": true,
+    "weapon": "M4A1-S",
+    "ammo": 15,
+    "utility": [
+     "Flashbang"
+    ],
+    "place": "Decon",
+    "avatar": "https://avatars.fastly.steamstatic.com/55f0de2913d9ef54f32a0dc4b8852284a7b83eb0_full.jpg"
+   },
+   {
+    "name": "YumsaN",
+    "steamId": "76561198149085633",
+    "team": "ex-RUBY",
+    "hp": 70,
+    "armor": 99,
+    "helmet": true,
+    "kit": true,
+    "weapon": "AWP",
+    "ammo": null,
+    "utility": [
+     "Incendiary Grenade",
+     "Smoke Grenade"
+    ],
+    "place": "Heaven",
+    "avatar": "https://avatars.fastly.steamstatic.com/e0aa17e317c8f0d9333bd393c7fd71f3de21aa85_full.jpg"
+   }
+  ],
+  "videoUrl": "https://media2.allstar.gg/66df9d749951fe6a81b9db96/clips/6ac670a79cae24f09815a56b.mp4"
+ },
+ {
+  "id": "ex-ruby-vs-rustec-m2-dust2-r2",
+  "map": "Dust 2",
+  "round": 2,
+  "player": "sh1nejezzz",
+  "side": "CT",
+  "vs": 2,
+  "won": false,
+  "startTick": 15193,
+  "freezeTick": 15961,
+  "timeLeft": 1.0,
+  "bombPlanted": true,
+  "clutcher": {
+   "name": "sh1nejezzz",
+   "steamId": "76561198396570413",
+   "team": "ex-RUBY",
+   "hp": 73,
+   "armor": 97,
+   "helmet": false,
+   "kit": true,
+   "weapon": "SSG 08",
+   "ammo": 7,
+   "utility": [],
+   "place": "Pit",
+   "avatar": "https://avatars.fastly.steamstatic.com/62e7c3a332ba14e7548f6385432e610a54db0b0a_full.jpg"
+  },
+  "opponents": [
+   {
+    "name": "jakekeS",
+    "steamId": "76561198158539864",
+    "team": "RUSTEC",
+    "hp": 23,
+    "armor": 93,
+    "helmet": true,
+    "kit": false,
+    "weapon": "AK-47",
+    "ammo": null,
+    "utility": [],
+    "place": "Middle",
+    "avatar": "https://avatars.fastly.steamstatic.com/ccab287fca841a0ec37e067284b8f8311d552700_full.jpg"
+   },
+   {
+    "name": "youka",
+    "steamId": "76561198846386512",
+    "team": "RUSTEC",
+    "hp": 56,
+    "armor": 99,
+    "helmet": true,
+    "kit": false,
+    "weapon": "Galil AR",
+    "ammo": null,
+    "utility": [],
+    "place": "LowerTunnel",
+    "avatar": "https://avatars.fastly.steamstatic.com/9d46e40f3c6a052e8813d341857a28a0c91edb3e_full.jpg"
+   }
+  ],
+  "videoUrl": "https://media2.allstar.gg/674bb8f313bea3e32b1d60fe/clips/6ac67090ff647f8a174ab481.mp4"
+ },
+ {
+  "id": "ex-ruby-vs-rustec-m2-dust2-r3",
+  "map": "Dust 2",
+  "round": 3,
+  "player": "youka",
+  "side": "T",
+  "vs": 2,
+  "won": false,
+  "startTick": 22221,
+  "freezeTick": 22413,
+  "timeLeft": 41.2,
+  "bombPlanted": false,
+  "clutcher": {
+   "name": "youka",
+   "steamId": "76561198846386512",
+   "team": "RUSTEC",
+   "hp": 100,
+   "armor": 95,
+   "helmet": true,
+   "kit": false,
+   "weapon": "AK-47",
+   "ammo": 30,
+   "utility": [
+    "C4 Explosive"
+   ],
+   "place": "BombsiteB",
+   "avatar": "https://avatars.fastly.steamstatic.com/9d46e40f3c6a052e8813d341857a28a0c91edb3e_full.jpg"
+  },
+  "opponents": [
+   {
+    "name": "YumsaN",
+    "steamId": "76561198149085633",
+    "team": "ex-RUBY",
+    "hp": 6,
+    "armor": 0,
+    "helmet": false,
+    "kit": false,
+    "weapon": "SSG 08",
+    "ammo": 6,
+    "utility": [],
+    "place": "MidDoors",
+    "avatar": "https://avatars.fastly.steamstatic.com/e0aa17e317c8f0d9333bd393c7fd71f3de21aa85_full.jpg"
+   },
+   {
+    "name": "H4SAN4TOR",
+    "steamId": "76561199001109911",
+    "team": "ex-RUBY",
+    "hp": 100,
+    "armor": 0,
+    "helmet": false,
+    "kit": false,
+    "weapon": "Desert Eagle",
+    "ammo": 0,
+    "utility": [],
+    "place": "MidDoors",
+    "avatar": "https://avatars.fastly.steamstatic.com/81bb0ecc1a8a5f3493b958fd4721e2ab9106edf9_full.jpg"
+   }
+  ],
+  "videoUrl": "https://media2.allstar.gg/68c9047076a0547fa28acc07/clips/6ac670a5450b184d018512f0.mp4"
+ },
+ {
+  "id": "ex-ruby-vs-rustec-m2-dust2-r8",
+  "map": "Dust 2",
+  "round": 8,
+  "player": "Brilliance",
+  "side": "T",
+  "vs": 3,
+  "won": true,
+  "startTick": 57463,
+  "freezeTick": 57742,
+  "timeLeft": 35.9,
+  "bombPlanted": true,
+  "clutcher": {
+   "name": "Brilliance",
+   "steamId": "76561197967402670",
+   "team": "RUSTEC",
+   "hp": 57,
+   "armor": 92,
+   "helmet": true,
+   "kit": false,
+   "weapon": "AK-47",
+   "ammo": 19,
+   "utility": [
+    "Molotov",
+    "Flashbang",
+    "Smoke Grenade"
+   ],
+   "place": "LongA",
+   "avatar": "https://avatars.fastly.steamstatic.com/78c1244a24cdab4441e342732cd6d66329be9c2f_full.jpg"
+  },
+  "opponents": [
+   {
+    "name": "YumsaN",
+    "steamId": "76561198149085633",
+    "team": "ex-RUBY",
+    "hp": 50,
+    "armor": 97,
+    "helmet": true,
+    "kit": false,
+    "weapon": "AWP",
+    "ammo": 2,
+    "utility": [],
+    "place": "UnderA",
+    "avatar": "https://avatars.fastly.steamstatic.com/e0aa17e317c8f0d9333bd393c7fd71f3de21aa85_full.jpg"
+   },
+   {
+    "name": "H4SAN4TOR",
+    "steamId": "76561199001109911",
+    "team": "ex-RUBY",
+    "hp": 100,
+    "armor": 100,
+    "helmet": true,
+    "kit": false,
+    "weapon": "AK-47",
+    "ammo": 22,
+    "utility": [
+     "Smoke Grenade",
+     "Flashbang"
+    ],
+    "place": "ShortStairs",
+    "avatar": "https://avatars.fastly.steamstatic.com/81bb0ecc1a8a5f3493b958fd4721e2ab9106edf9_full.jpg"
+   },
+   {
+    "name": "relaxxie",
+    "steamId": "76561199384986887",
+    "team": "ex-RUBY",
+    "hp": 100,
+    "armor": 99,
+    "helmet": true,
+    "kit": true,
+    "weapon": "M4A1-S",
+    "ammo": 20,
+    "utility": [
+     "Flashbang"
+    ],
+    "place": "UnderA",
+    "avatar": "https://avatars.fastly.steamstatic.com/55f0de2913d9ef54f32a0dc4b8852284a7b83eb0_full.jpg"
+   }
+  ],
+  "videoUrl": "https://media2.allstar.gg/68ef73d203a7294a3b35397f/clips/6ac6708fff647f8a174ab3ac.mp4"
+ },
+ {
+  "id": "ex-ruby-vs-rustec-m2-dust2-r9",
+  "map": "Dust 2",
+  "round": 9,
+  "player": "robo",
+  "side": "CT",
+  "vs": 3,
+  "won": false,
+  "startTick": 67399,
+  "freezeTick": 68167,
+  "timeLeft": 1.0,
+  "bombPlanted": true,
+  "clutcher": {
+   "name": "robo",
+   "steamId": "76561199120712009",
+   "team": "ex-RUBY",
+   "hp": 66,
+   "armor": 77,
+   "helmet": true,
+   "kit": false,
+   "weapon": "AK-47",
+   "ammo": 30,
+   "utility": [],
+   "place": "Middle",
+   "avatar": "https://avatars.fastly.steamstatic.com/d0edfa50d3095bf6e0de2086a4e6babde536f141_full.jpg"
+  },
+  "opponents": [
+   {
+    "name": "anttzz",
+    "steamId": "76561198095744377",
+    "team": "RUSTEC",
+    "hp": 100,
+    "armor": 100,
+    "helmet": true,
+    "kit": false,
+    "weapon": "AK-47",
+    "ammo": 30,
+    "utility": [
+     "Molotov"
+    ],
+    "place": "Pit",
+    "avatar": "https://avatars.fastly.steamstatic.com/a400108cc623a4e02495fbe8e89c15d87781131c_full.jpg"
+   },
+   {
+    "name": "youka",
+    "steamId": "76561198846386512",
+    "team": "RUSTEC",
+    "hp": 81,
+    "armor": 96,
+    "helmet": true,
+    "kit": false,
+    "weapon": "AWP",
+    "ammo": null,
+    "utility": [],
+    "place": "LongDoors",
+    "avatar": "https://avatars.fastly.steamstatic.com/9d46e40f3c6a052e8813d341857a28a0c91edb3e_full.jpg"
+   },
+   {
+    "name": "Brilliance",
+    "steamId": "76561197967402670",
+    "team": "RUSTEC",
+    "hp": 74,
+    "armor": 86,
+    "helmet": true,
+    "kit": false,
+    "weapon": "M4A4",
+    "ammo": 30,
+    "utility": [],
+    "place": "OutsideLong",
+    "avatar": "https://avatars.fastly.steamstatic.com/78c1244a24cdab4441e342732cd6d66329be9c2f_full.jpg"
+   }
+  ],
+  "videoUrl": "https://media2.allstar.gg/66df9d749951fe6a81b9db96/clips/6ac670a6f895818abad7c530.mp4"
+ },
+ {
+  "id": "ex-ruby-vs-rustec-m2-dust2-r10",
+  "map": "Dust 2",
+  "round": 10,
+  "player": "H4SAN4TOR",
+  "side": "CT",
+  "vs": 2,
+  "won": true,
+  "startTick": 73800,
+  "freezeTick": 75799,
+  "timeLeft": 22.8,
+  "bombPlanted": false,
+  "clutcher": {
+   "name": "H4SAN4TOR",
+   "steamId": "76561199001109911",
+   "team": "ex-RUBY",
+   "hp": 38,
+   "armor": 92,
+   "helmet": true,
+   "kit": false,
+   "weapon": "AK-47",
+   "ammo": 25,
+   "utility": [
+    "Smoke Grenade",
+    "Incendiary Grenade",
+    "High Explosive Grenade",
+    "Flashbang"
+   ],
+   "place": "UnderA",
+   "avatar": "https://avatars.fastly.steamstatic.com/81bb0ecc1a8a5f3493b958fd4721e2ab9106edf9_full.jpg"
+  },
+  "opponents": [
+   {
+    "name": "anttzz",
+    "steamId": "76561198095744377",
+    "team": "RUSTEC",
+    "hp": 100,
+    "armor": 96,
+    "helmet": true,
+    "kit": false,
+    "weapon": "AK-47",
+    "ammo": 30,
+    "utility": [
+     "Flashbang",
+     "High Explosive Grenade"
+    ],
+    "place": "ARamp",
+    "avatar": "https://avatars.fastly.steamstatic.com/a400108cc623a4e02495fbe8e89c15d87781131c_full.jpg"
+   },
+   {
+    "name": "youka",
+    "steamId": "76561198846386512",
+    "team": "RUSTEC",
+    "hp": 18,
+    "armor": 91,
+    "helmet": true,
+    "kit": false,
+    "weapon": "AWP",
+    "ammo": 4,
+    "utility": [
+     "Flashbang",
+     "C4 Explosive"
+    ],
+    "place": "ARamp",
+    "avatar": "https://avatars.fastly.steamstatic.com/9d46e40f3c6a052e8813d341857a28a0c91edb3e_full.jpg"
+   }
+  ],
+  "videoUrl": "https://media2.allstar.gg/66df9d749951fe6a81b9db96/clips/6ac66aff2d626b84c37e3adf.mp4"
+ },
+ {
+  "id": "ex-ruby-vs-rustec-m2-dust2-r11",
+  "map": "Dust 2",
+  "round": 11,
+  "player": "youka",
+  "side": "T",
+  "vs": 2,
+  "won": false,
+  "startTick": 81474,
+  "freezeTick": 82201,
+  "timeLeft": 42.3,
+  "bombPlanted": false,
+  "clutcher": {
+   "name": "youka",
+   "steamId": "76561198846386512",
+   "team": "RUSTEC",
+   "hp": 100,
+   "armor": 100,
+   "helmet": true,
+   "kit": false,
+   "weapon": "AWP",
+   "ammo": null,
+   "utility": [
+    "Flashbang",
+    "C4 Explosive"
+   ],
+   "place": "BombsiteA",
+   "avatar": "https://avatars.fastly.steamstatic.com/9d46e40f3c6a052e8813d341857a28a0c91edb3e_full.jpg"
+  },
+  "opponents": [
+   {
+    "name": "sh1nejezzz",
+    "steamId": "76561198396570413",
+    "team": "ex-RUBY",
+    "hp": 100,
+    "armor": 100,
+    "helmet": false,
+    "kit": false,
+    "weapon": "FAMAS",
+    "ammo": null,
+    "utility": [],
+    "place": "Catwalk",
+    "avatar": "https://avatars.fastly.steamstatic.com/62e7c3a332ba14e7548f6385432e610a54db0b0a_full.jpg"
+   },
+   {
+    "name": "H4SAN4TOR",
+    "steamId": "76561199001109911",
+    "team": "ex-RUBY",
+    "hp": 100,
+    "armor": 92,
+    "helmet": true,
+    "kit": false,
+    "weapon": "M4A4",
+    "ammo": 30,
+    "utility": [
+     "Incendiary Grenade",
+     "Flashbang"
+    ],
+    "place": "UnderA",
+    "avatar": "https://avatars.fastly.steamstatic.com/81bb0ecc1a8a5f3493b958fd4721e2ab9106edf9_full.jpg"
+   }
+  ],
+  "videoUrl": "https://media2.allstar.gg/68c9047076a0547fa28acc07/clips/6ac6709f9cae24f0981584d5.mp4"
+ },
+ {
+  "id": "ex-ruby-vs-rustec-m3-overpass-r4",
+  "map": "Overpass",
+  "round": 4,
+  "player": "Brilliance",
+  "side": "T",
+  "vs": 3,
+  "won": false,
+  "startTick": 22366,
+  "freezeTick": 23077,
+  "timeLeft": 35.0,
+  "bombPlanted": false,
+  "clutcher": {
+   "name": "Brilliance",
+   "steamId": "76561197967402670",
+   "team": "RUSTEC",
+   "hp": 100,
+   "armor": 0,
+   "helmet": false,
+   "kit": false,
+   "weapon": "Desert Eagle",
+   "ammo": 3,
+   "utility": [],
+   "place": "UpperPark",
+   "avatar": "https://avatars.fastly.steamstatic.com/78c1244a24cdab4441e342732cd6d66329be9c2f_full.jpg"
+  },
+  "opponents": [
+   {
+    "name": "sh1nejezzz",
+    "steamId": "76561198396570413",
+    "team": "ex-RUBY",
+    "hp": 100,
+    "armor": 100,
+    "helmet": true,
+    "kit": true,
+    "weapon": "M4A4",
+    "ammo": 24,
+    "utility": [
+     "Smoke Grenade"
+    ],
+    "place": "Restroom",
+    "avatar": "https://avatars.fastly.steamstatic.com/62e7c3a332ba14e7548f6385432e610a54db0b0a_full.jpg"
+   },
+   {
+    "name": "robo",
+    "steamId": "76561199120712009",
+    "team": "ex-RUBY",
+    "hp": 100,
+    "armor": 98,
+    "helmet": true,
+    "kit": true,
+    "weapon": "M4A4",
+    "ammo": 19,
+    "utility": [
+     "Smoke Grenade",
+     "Incendiary Grenade"
+    ],
+    "place": "Fountain",
+    "avatar": "https://avatars.fastly.steamstatic.com/d0edfa50d3095bf6e0de2086a4e6babde536f141_full.jpg"
+   },
+   {
+    "name": "YumsaN",
+    "steamId": "76561198149085633",
+    "team": "ex-RUBY",
+    "hp": 100,
+    "armor": 100,
+    "helmet": true,
+    "kit": false,
+    "weapon": "MP9",
+    "ammo": 24,
+    "utility": [],
+    "place": "Restroom",
+    "avatar": "https://avatars.fastly.steamstatic.com/e0aa17e317c8f0d9333bd393c7fd71f3de21aa85_full.jpg"
+   }
+  ],
+  "videoUrl": "https://media2.allstar.gg/68ef73d203a7294a3b35397f/clips/6ac670aba3661cb7746d5f62.mp4"
+ },
+ {
+  "id": "ex-ruby-vs-rustec-m3-overpass-r14",
+  "map": "Overpass",
+  "round": 14,
+  "player": "supra",
+  "side": "CT",
+  "vs": 3,
+  "won": false,
+  "startTick": 94457,
+  "freezeTick": 95225,
+  "timeLeft": 34.9,
+  "bombPlanted": true,
+  "clutcher": {
+   "name": "supra",
+   "steamId": "76561198125067919",
+   "team": "RUSTEC",
+   "hp": 100,
+   "armor": 100,
+   "helmet": false,
+   "kit": false,
+   "weapon": "Dual Berettas",
+   "ammo": 29,
+   "utility": [],
+   "place": "Lobby",
+   "avatar": "https://avatars.fastly.steamstatic.com/816ccfd3424bf9adf2ec5e4a8c403e4b0f55e5db_full.jpg"
+  },
+  "opponents": [
+   {
+    "name": "robo",
+    "steamId": "76561199120712009",
+    "team": "ex-RUBY",
+    "hp": 100,
+    "armor": 0,
+    "helmet": false,
+    "kit": false,
+    "weapon": "USP-S",
+    "ammo": 12,
+    "utility": [],
+    "place": "BombsiteA",
+    "avatar": "https://avatars.fastly.steamstatic.com/d0edfa50d3095bf6e0de2086a4e6babde536f141_full.jpg"
+   },
+   {
+    "name": "H4SAN4TOR",
+    "steamId": "76561199001109911",
+    "team": "ex-RUBY",
+    "hp": 68,
+    "armor": 86,
+    "helmet": false,
+    "kit": false,
+    "weapon": "USP-S",
+    "ammo": 6,
+    "utility": [
+     "Flashbang"
+    ],
+    "place": "BombsiteA",
+    "avatar": "https://avatars.fastly.steamstatic.com/81bb0ecc1a8a5f3493b958fd4721e2ab9106edf9_full.jpg"
+   },
+   {
+    "name": "YumsaN",
+    "steamId": "76561198149085633",
+    "team": "ex-RUBY",
+    "hp": 21,
+    "armor": 0,
+    "helmet": false,
+    "kit": false,
+    "weapon": "P250",
+    "ammo": null,
+    "utility": [
+     "Smoke Grenade"
+    ],
+    "place": "LowerPark",
+    "avatar": "https://avatars.fastly.steamstatic.com/e0aa17e317c8f0d9333bd393c7fd71f3de21aa85_full.jpg"
+   }
+  ],
+  "videoUrl": "https://media2.allstar.gg/66df9d749951fe6a81b9db96/clips/6ac670aa9b7357595a7125ae.mp4"
+ },
+ {
+  "id": "ex-ruby-vs-rustec-m3-overpass-r15",
+  "map": "Overpass",
+  "round": 15,
+  "player": "supra",
+  "side": "CT",
+  "vs": 2,
+  "won": false,
+  "startTick": 105935,
+  "freezeTick": 106703,
+  "timeLeft": 1.0,
+  "bombPlanted": true,
+  "clutcher": {
+   "name": "supra",
+   "steamId": "76561198125067919",
+   "team": "RUSTEC",
+   "hp": 8,
+   "armor": 57,
+   "helmet": false,
+   "kit": false,
+   "weapon": "MP9",
+   "ammo": 30,
+   "utility": [
+    "Smoke Grenade"
+   ],
+   "place": "Canal",
+   "avatar": "https://avatars.fastly.steamstatic.com/816ccfd3424bf9adf2ec5e4a8c403e4b0f55e5db_full.jpg"
+  },
+  "opponents": [
+   {
+    "name": "sh1nejezzz",
+    "steamId": "76561198396570413",
+    "team": "ex-RUBY",
+    "hp": 24,
+    "armor": 94,
+    "helmet": true,
+    "kit": false,
+    "weapon": "AK-47",
+    "ammo": null,
+    "utility": [
+     "Flashbang"
+    ],
+    "place": "Water",
+    "avatar": "https://avatars.fastly.steamstatic.com/62e7c3a332ba14e7548f6385432e610a54db0b0a_full.jpg"
+   },
+   {
+    "name": "YumsaN",
+    "steamId": "76561198149085633",
+    "team": "ex-RUBY",
+    "hp": 100,
+    "armor": 100,
+    "helmet": true,
+    "kit": false,
+    "weapon": "Galil AR",
+    "ammo": 35,
+    "utility": [],
+    "place": "Water",
+    "avatar": "https://avatars.fastly.steamstatic.com/e0aa17e317c8f0d9333bd393c7fd71f3de21aa85_full.jpg"
+   }
+  ],
+  "videoUrl": "https://media2.allstar.gg/66df9d749951fe6a81b9db96/clips/6ac670aaa3661cb7746d5f3a.mp4"
+ },
+ {
+  "id": "lavked-vs-misa-m1-dust2-r3",
+  "map": "Dust 2",
+  "round": 3,
+  "player": "Mertowsk1",
+  "side": "T",
+  "vs": 2,
+  "won": false,
+  "startTick": 24337,
+  "freezeTick": 24529,
+  "timeLeft": 39.1,
+  "bombPlanted": false,
+  "clutcher": {
+   "name": "Mertowsk1",
+   "steamId": "76561198273386139",
+   "team": "MISA",
+   "hp": 28,
+   "armor": 66,
+   "helmet": true,
+   "kit": false,
+   "weapon": "AK-47",
+   "ammo": 25,
+   "utility": [],
+   "place": "UpperTunnel",
+   "avatar": "https://avatars.fastly.steamstatic.com/3d111791bb4e3542de5f2364b276574cc0f1ad07_full.jpg"
+  },
+  "opponents": [
+   {
+    "name": "sol",
+    "steamId": "76561198309457929",
+    "team": "Lavked",
+    "hp": 46,
+    "armor": 94,
+    "helmet": true,
+    "kit": true,
+    "weapon": "M4A1-S",
+    "ammo": null,
+    "utility": [
+     "Smoke Grenade",
+     "High Explosive Grenade"
+    ],
+    "place": "Middle",
+    "avatar": "https://avatars.fastly.steamstatic.com/13d984176a1ff54870612fecd2b531d82b505903_full.jpg"
+   },
+   {
+    "name": "Djon",
+    "steamId": "76561198163633612",
+    "team": "Lavked",
+    "hp": 100,
+    "armor": 100,
+    "helmet": true,
+    "kit": false,
+    "weapon": "MP9",
+    "ammo": 30,
+    "utility": [],
+    "place": "UpperTunnel",
+    "avatar": "https://avatars.fastly.steamstatic.com/7f07d12b296cc1e8987b250abee81f3487b4b011_full.jpg"
+   }
+  ],
+  "videoUrl": "https://media2.allstar.gg/66df9d749951fe6a81b9db96/clips/6ac670bf450b184d018581e8.mp4"
+ },
+ {
+  "id": "lavked-vs-misa-m2-mirage-r11",
+  "map": "Mirage",
+  "round": 11,
+  "player": "xm1nd",
+  "side": "T",
+  "vs": 2,
+  "won": false,
+  "startTick": 80251,
+  "freezeTick": 81019,
+  "timeLeft": 19.8,
+  "bombPlanted": false,
+  "clutcher": {
+   "name": "xm1nd",
+   "steamId": "76561198253155205",
+   "team": "Lavked",
+   "hp": 61,
+   "armor": 74,
+   "helmet": false,
+   "kit": false,
+   "weapon": "AK-47",
+   "ammo": 26,
+   "utility": [
+    "C4 Explosive"
+   ],
+   "place": "Apartments",
+   "avatar": "https://avatars.fastly.steamstatic.com/88ed8f331a64e77ab72651d53115f2e3861c1471_full.jpg"
+  },
+  "opponents": [
+   {
+    "name": "Zuedsta",
+    "steamId": "76561198210730700",
+    "team": "MISA",
+    "hp": 48,
+    "armor": 89,
+    "helmet": true,
+    "kit": true,
+    "weapon": "AK-47",
+    "ammo": 14,
+    "utility": [],
+    "place": "BombsiteB",
+    "avatar": "https://avatars.fastly.steamstatic.com/5650a856c0bd7c678378e9895afec491786ce595_full.jpg"
+   },
+   {
+    "name": "Mertowsk1",
+    "steamId": "76561198273386139",
+    "team": "MISA",
+    "hp": 100,
+    "armor": 100,
+    "helmet": true,
+    "kit": true,
+    "weapon": "AWP",
+    "ammo": 4,
+    "utility": [],
+    "place": "Catwalk",
+    "avatar": "https://avatars.fastly.steamstatic.com/3d111791bb4e3542de5f2364b276574cc0f1ad07_full.jpg"
+   }
+  ],
+  "videoUrl": "https://media2.allstar.gg/691871426feb3d3aabc7512a/clips/6ac670c2450b184d0185a47a.mp4"
+ },
+ {
+  "id": "lavked-vs-misa-m2-mirage-r15",
+  "map": "Mirage",
+  "round": 15,
+  "player": "Mertowsk1",
+  "side": "T",
+  "vs": 2,
+  "won": false,
+  "startTick": 107440,
+  "freezeTick": 108208,
+  "timeLeft": 64.0,
+  "bombPlanted": false,
+  "clutcher": {
+   "name": "Mertowsk1",
+   "steamId": "76561198273386139",
+   "team": "MISA",
+   "hp": 100,
+   "armor": 100,
+   "helmet": true,
+   "kit": false,
+   "weapon": "AK-47",
+   "ammo": null,
+   "utility": [
+    "Flashbang",
+    "Smoke Grenade",
+    "C4 Explosive"
+   ],
+   "place": "TSpawn",
+   "avatar": "https://avatars.fastly.steamstatic.com/3d111791bb4e3542de5f2364b276574cc0f1ad07_full.jpg"
+  },
+  "opponents": [
+   {
+    "name": "k4nfuz-",
+    "steamId": "76561198168987887",
+    "team": "Lavked",
+    "hp": 100,
+    "armor": 100,
+    "helmet": true,
+    "kit": true,
+    "weapon": "AK-47",
+    "ammo": 20,
+    "utility": [],
+    "place": "PalaceInterior",
+    "avatar": "https://avatars.fastly.steamstatic.com/d1380099d0725d6670a45920717f71bbfb7cf1be_full.jpg"
+   },
+   {
+    "name": "sol",
+    "steamId": "76561198309457929",
+    "team": "Lavked",
+    "hp": 100,
+    "armor": 100,
+    "helmet": true,
+    "kit": false,
+    "weapon": "M4A1-S",
+    "ammo": 20,
+    "utility": [
+     "Flashbang"
+    ],
+    "place": "House",
+    "avatar": "https://avatars.fastly.steamstatic.com/13d984176a1ff54870612fecd2b531d82b505903_full.jpg"
+   }
+  ],
+  "videoUrl": "https://media2.allstar.gg/66df9d749951fe6a81b9db96/clips/6ac670c29cae24f09815dc9a.mp4"
+ },
+ {
+  "id": "lavked-vs-misa-m2-mirage-r17",
+  "map": "Mirage",
+  "round": 17,
+  "player": "k4nfuz-",
+  "side": "CT",
+  "vs": 2,
+  "won": false,
+  "startTick": 119370,
+  "freezeTick": 120089,
+  "timeLeft": 58.7,
+  "bombPlanted": false,
+  "clutcher": {
+   "name": "k4nfuz-",
+   "steamId": "76561198168987887",
+   "team": "Lavked",
+   "hp": 100,
+   "armor": 100,
+   "helmet": true,
+   "kit": true,
+   "weapon": "AK-47",
+   "ammo": 30,
+   "utility": [
+    "High Explosive Grenade"
+   ],
+   "place": "BombsiteA",
+   "avatar": "https://avatars.fastly.steamstatic.com/d1380099d0725d6670a45920717f71bbfb7cf1be_full.jpg"
+  },
+  "opponents": [
+   {
+    "name": "Mertowsk1",
+    "steamId": "76561198273386139",
+    "team": "MISA",
+    "hp": 98,
+    "armor": 99,
+    "helmet": true,
+    "kit": false,
+    "weapon": "AWP",
+    "ammo": 5,
+    "utility": [
+     "C4 Explosive",
+     "Flashbang"
+    ],
+    "place": "Connector",
+    "avatar": "https://avatars.fastly.steamstatic.com/3d111791bb4e3542de5f2364b276574cc0f1ad07_full.jpg"
+   },
+   {
+    "name": "souv",
+    "steamId": "76561198280388222",
+    "team": "MISA",
+    "hp": 100,
+    "armor": 100,
+    "helmet": true,
+    "kit": false,
+    "weapon": "AK-47",
+    "ammo": 26,
+    "utility": [
+     "Decoy Grenade"
+    ],
+    "place": "SnipersNest",
+    "avatar": "https://avatars.fastly.steamstatic.com/4da088104c126c227449c05c415aefd2574ca10b_full.jpg"
+   }
+  ],
+  "videoUrl": "https://media2.allstar.gg/66dce5fe3bc23ea268f68f5d/clips/6ac670b9450b184d01852e80.mp4"
+ },
+ {
+  "id": "lavked-vs-misa-m2-mirage-r20",
+  "map": "Mirage",
+  "round": 20,
+  "player": "souv",
+  "side": "T",
+  "vs": 2,
+  "won": false,
+  "startTick": 145658,
+  "freezeTick": 146426,
+  "timeLeft": 36.3,
+  "bombPlanted": false,
+  "clutcher": {
+   "name": "souv",
+   "steamId": "76561198280388222",
+   "team": "MISA",
+   "hp": 29,
+   "armor": 87,
+   "helmet": true,
+   "kit": false,
+   "weapon": "AK-47",
+   "ammo": 11,
+   "utility": [],
+   "place": "Apartments",
+   "avatar": "https://avatars.fastly.steamstatic.com/4da088104c126c227449c05c415aefd2574ca10b_full.jpg"
+  },
+  "opponents": [
+   {
+    "name": "Djon",
+    "steamId": "76561198163633612",
+    "team": "Lavked",
+    "hp": 100,
+    "armor": 100,
+    "helmet": false,
+    "kit": false,
+    "weapon": "M4A4",
+    "ammo": 25,
+    "utility": [],
+    "place": "BombsiteB",
+    "avatar": "https://avatars.fastly.steamstatic.com/7f07d12b296cc1e8987b250abee81f3487b4b011_full.jpg"
+   },
+   {
+    "name": "xm1nd",
+    "steamId": "76561198253155205",
+    "team": "Lavked",
+    "hp": 100,
+    "armor": 100,
+    "helmet": false,
+    "kit": false,
+    "weapon": "M4A1-S",
+    "ammo": 9,
+    "utility": [
+     "Smoke Grenade"
+    ],
+    "place": "BombsiteB",
+    "avatar": "https://avatars.fastly.steamstatic.com/88ed8f331a64e77ab72651d53115f2e3861c1471_full.jpg"
+   }
+  ],
+  "videoUrl": "https://media2.allstar.gg/66df9d749951fe6a81b9db96/clips/6ac670b9450b184d01852f34.mp4"
+ }
+]

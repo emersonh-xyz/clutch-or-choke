@@ -1,0 +1,14 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "bounce-easing",
+        "value": "wobble",
+        "createdAt": "2026-10-07T16:56:52.074Z",
+        "reason": "Requested by the user, who asked for the title's Choke to be 'stylized more in a fun sort of CHOkey way'; the hover wobble on the wordmark letters is that comic gag, not UI easing"
+      }
+    ]
+  }
+}
